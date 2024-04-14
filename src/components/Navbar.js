@@ -1,4 +1,5 @@
 import React from 'react';
+import './Navbar.css';
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom'; // Import the Link component
 
